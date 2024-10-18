@@ -10,3 +10,4 @@ pub mod notifications;
 pub mod logging;
 pub mod level_data;
 pub mod startup;
+pub mod system_information;
